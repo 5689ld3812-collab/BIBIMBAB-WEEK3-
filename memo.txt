@@ -1,0 +1,9 @@
+목포
+
+
+
+1. memo.txt 수정 → 커밋 메시지를 일부러 오타로 커밋 → 메시지만 고쳐서 다시 커밋
+2. password.txt 를 만들고 실수로 add · 커밋 (push 하지 않기!)
+3. 커밋을 취소하되 password.txt 는 커밋에서 빼고 .gitignore 에 추가
+4. 나머지를 다시 커밋 → push
+
